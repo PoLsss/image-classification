@@ -1,7 +1,7 @@
 ## Simple CNN network to classify images of dogs and cats
 ### Dataset: Cats and Dogs Image Classification
 Data Source:
-The dataset used in this project is collected from Roboflow Universe: [Cats and Dogs Image Classification (Roboflow)][https://universe.roboflow.com/workspace1-aalti/cats-and-dogs-image-classification/dataset/1]
+The dataset used in this project is collected from Roboflow Universe: [Cats and Dogs Image Classification (Roboflow)](https://universe.roboflow.com/workspace1-aalti/cats-and-dogs-image-classification/dataset/1)
 The dataset consists of images belonging to two classification classes: "Cat" and "Dog", serving the image classification problem.
 Summary:
  - Total images: 2.000
